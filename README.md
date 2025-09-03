@@ -1,14 +1,10 @@
 <!-- Banner Section with Background Image -->
-<div align="center" style="background-image: url('https://raw.githubusercontent.com/swathi-gurijala/swathi-gurijala/main/assets/banner-bg.png'); background-size: cover; background-position: center; padding: 60px 0 30px 0; border-radius: 24px; color: #fff;">
-  <img src="https://raw.githubusercontent.com/swathi-gurijala/swathi-gurijala/main/assets/animated-coder.svg" width="340" alt="Girl coding at desktop"/>
+<div align="center" style="background-image: url('https://github.com/swathi-gurijala/swathi-gurijala/blob/main/assets/banner-backg.png'); background-size: cover; background-position: center; padding: 60px 0 30px 0; border-radius: 24px; color: #fff;">
+  <img src="https://raw.githubusercontent.com/swathi-gurijala/swathi-gurijala/main/assets/animated-coder.png" width="340" alt="Girl coding at desktop"/>
   <h1 style="font-size:2.8em; margin-bottom:0;">Hi, I'm Swathi Gurijala 👩‍💻</h1>
   <h3 style="font-weight:normal; margin-top:8px;">Java & Web Developer | Solving Real-World Problems With Code</h3>
 </div>
 
-<!-- Animated Title SVG -->
-<p align="center" style="margin-top:24px;">
-  <img src="https://raw.githubusercontent.com/swathi-gurijala/swathi-gurijala/main/assets/animated-title.svg" alt="Animated Welcome Title" width="400"/>
-</p>
 
 <!-- About Me Section -->
 <div align="center" style="background:#e6f7ff; border-radius:16px; padding:20px; margin:24px 0;">
@@ -50,9 +46,6 @@
 <!-- Interests Section with Animated SVG -->
 <div style="background:#fffbe7; border-radius:16px; padding:20px; margin:24px 0;">
   <h2 align="center">📚 Interests & Learning</h2>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/swathi-gurijala/swathi-gurijala/main/assets/animated-interests.svg" alt="Animated Interests" width="320"/>
-  </p>
   <ul>
     <li>Learning new things about IT Field and AI Tools for personal and overall growth in tech skills</li>
     <li>Always excited to learn and embrace new technologies</li>
@@ -73,9 +66,10 @@
 <!-- Soft Skills Section with Animated SVG -->
 <div style="background:#e0f7fa; border-radius:16px; padding:20px; margin:24px 0;">
   <h2 align="center">🧠 Soft Skills</h2>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/swathi-gurijala/swathi-gurijala/main/assets/animated-softskills.svg" alt="Animated Soft Skills" width="320"/>
-  </p>
+  <h3>Adaptiveness</h3>
+  <h3>Fluent Communication</h3>
+  <h3>Problem-solving</h3>
+  <h3>Quick Learner</h3>
 </div>
 
 <p align="center" style="font-size:1.2em; margin-top:30px;">
