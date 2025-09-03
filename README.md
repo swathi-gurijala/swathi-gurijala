@@ -16,6 +16,7 @@
 </div>
 
 <!-- Skills Section -->
+<!-- Skills Section -->
 <div style="background:#fff0f6; border-radius:16px; padding:20px; margin:24px 0;">
   <h2 align="center">🚀 Skills</h2>
   <p align="center">
@@ -30,8 +31,10 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   </p>
 </div>
+
 
 <!-- Featured Projects Section -->
 <div style="background:#e0ffe7; border-radius:16px; padding:20px; margin:24px 0;">
