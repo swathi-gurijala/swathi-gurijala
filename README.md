@@ -19,6 +19,7 @@
   <h2 align="center">🚀 Technical Skills</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -63,14 +64,14 @@
   </p>
 </div>
 
-<!-- Interests & Learning Section -->
+<!-- Interests & Continuous Learning Section -->
 <div style="background:#f0f4ff; border-radius:16px; padding:20px; margin:24px 0;">
   <h2 align="center">📚 Interests & Continuous Learning</h2>
   <ul>
-    <li>Exploring AI, Machine Learning, and Deep Learning tools</li>
-    <li>Full-stack web development with modern frameworks</li>
-    <li>Participating in coding competitions & hackathons</li>
-    <li>Building interactive and user-friendly web apps</li>
+    <li>Solving LeetCode problems & A2Z DSA Striver Sheet challenges 🧩</li>
+    <li>Exploring AI, Machine Learning, and Deep Learning tools 🤖</li>
+    <li>Full-stack web development with modern frameworks 🌐</li>
+    <li>Building interactive and user-friendly web apps 💻</li>
   </ul>
 </div>
 
@@ -92,34 +93,3 @@
 <p align="center" style="font-size:1.3em; margin-top:30px;">
   <em>“I turn challenges into opportunities using technology and creativity!”</em>
 </p>
-
-<!-- Author Details Table -->
-<div style="background:#e6f2ff; border-radius:16px; padding:20px; margin:24px 0;">
-  <h2 align="center">👩‍💻 About the Developer</h2>
-  <table align="center">
-    <tr>
-      <td><b>Name</b></td>
-      <td>Swathi Gurijala</td>
-    </tr>
-    <tr>
-      <td><b>Degree</b></td>
-      <td>B.Tech in Artificial Intelligence & Machine Learning (Final Year)</td>
-    </tr>
-    <tr>
-      <td><b>Email</b></td>
-      <td>swathigurijala131@gmail.com</td>
-    </tr>
-    <tr>
-      <td><b>GitHub</b></td>
-      <td><a href="https://github.com/swathi-gurijala">github.com/swathi-gurijala</a></td>
-    </tr>
-    <tr>
-      <td><b>LinkedIn</b></td>
-      <td><a href="https://www.linkedin.com/in/swathi-gurijala-303ab9281/">linkedin.com/in/swathi-gurijala-303ab9281</a></td>
-    </tr>
-    <tr>
-      <td><b>Portfolio</b></td>
-      <td><a href="https://swathi-gurijala.github.io/">swathi-gurijala.github.io</a></td>
-    </tr>
-  </table>
-</div>
